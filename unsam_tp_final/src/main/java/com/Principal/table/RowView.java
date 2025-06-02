@@ -3,6 +3,7 @@ package Principal.table;
 
 import java.util.Map; 
 
+
 public class RowView {
 
     private int index;
